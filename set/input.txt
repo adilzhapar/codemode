@@ -1,0 +1,3 @@
+20
+jan klodd van damm klodd van damm silvester stallone silvester van damm Jaqsylyq Bruce Lee aikido kung_fu klodd stallone Adil
+freopen("input.txt", "r", stdin);
