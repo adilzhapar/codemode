@@ -1,10 +1,9 @@
-5
-sausage 1390
-milk 450
-smetana 220
-hleb 90
-banan 702
-3
-milk 2
-banan 3
-milk 4
+zhaparadil
+output:
+2 a
+
+qwhlhedf
+5 e
+
+
+
