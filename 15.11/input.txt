@@ -1,17 +1,13 @@
-input:
 5
-push 5
-push 7
-pop
-size
-front
+2 3 + 8 *
 
+= (2 + 3) * 8
 output:
-ok
-ok
+40
+
 5
-1
-7
+7 6 5 + *
 
-
-
+= (6 + 5) * 7
+output:
+77
