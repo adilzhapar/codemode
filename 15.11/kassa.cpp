@@ -38,7 +38,9 @@ int main(){
         v.push_back(*it);
     }
     sort(v.begin(), v.end(), comp);
-    for (auto i : v) cout << i.first << ' ' << i.second << endl;
-
+    // for (auto i : v) cout << i.first << ' ' << i.second << endl;
+    for (int i = 0; i < v.size(); i++){
+        cout << v[i].first << ' ' << v[i].second << endl;
+    }
     return 0;
 }
