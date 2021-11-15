@@ -13,19 +13,13 @@ int main(){
         char c;
         cin >> c;
         if (c == '+'){
-            int second = st.top();
-            st.pop();
-            int first = st.top();
-            st.pop();
-            int temp = first + second;
-            st.push(temp);
+            int second = st.top(); st.pop();
+            int first = st.top(); st.pop();
+            st.push(first + second);
         } else if (c == '*'){
-            int second = st.top();
-            st.pop();
-            int first = st.top();
-            st.pop();
-            int temp = first * second;
-            st.push(temp);
+            int second = st.top(); st.pop();
+            int first = st.top(); st.pop();
+            st.push(first * second);
         } else{
             st.push(int(c - 48));
         }
