@@ -1,0 +1,14 @@
+2
+USA
+5
+Washington New-York Los-Angeles Chicago Denver
+Spain
+3
+Barcelona Valencia Madrid
+6
+Almaty
+Los-Angeles
+Denver
+Madrid
+Nairobi
+Lissabon
