@@ -1,7 +1,6 @@
-hot keys:
-Alt + keyUp/keyDown -- move the lines
-Shift + Alt + keyUp/keyDown -- copy the lines
-Ctrl + A -- select all
-Ctrl + '/' -- comment all
-Ctrl + '~(ё)' -- open terminal
-
+hot keys: <br />
+Alt + keyUp/keyDown -- move the lines <br />
+Shift + Alt + keyUp/keyDown -- copy the lines <br />
+Ctrl + A -- select all <br />
+Ctrl + '/' -- comment all <br />
+Ctrl + '~(ё)' -- open terminal <br />
